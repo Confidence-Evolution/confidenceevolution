@@ -166,7 +166,7 @@ button a {
 
 .service_plans {
     background: url(imagens/pagina-dos-planos.jpg);
-    height: 240vh;
+    height: 260vh;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -183,7 +183,6 @@ button a {
 .service_plans p  {
     color: #fff;
     text-align: justify;
-    font-size: 16px;
 }
 
 .plan  h2  {
@@ -243,7 +242,6 @@ button a {
     align-items: center;
     height: 50px;
     width: 100%;
-    font-size: 16px;
 }
 
 .price {
